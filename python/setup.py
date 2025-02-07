@@ -1,0 +1,1 @@
+# setup.py: Opcional, para empaquetar el módulo
